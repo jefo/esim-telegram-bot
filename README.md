@@ -9,6 +9,8 @@
 
 **[Открыть case study →](https://jefo.github.io/esim-telegram-bot/)**
 
+<img src="docs/screens/esim-telegram-bot/03.png" alt="Карточка тарифа eSIM" width="360" />
+
 ---
 
 ## Что это
