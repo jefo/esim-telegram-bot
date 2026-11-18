@@ -15,7 +15,7 @@ const mockESimPlans = [
 		price: 12,
 		currency: "USD",
 		coverage: ["DE", "FR", "IT", "ES", "NL"],
-		icon: "🇪",
+		icon: "🇪🇺",
 		popular: false,
 		features: ["Мгновенная активация", "Поддержка 4G"],
 	},
@@ -26,7 +26,7 @@ const mockESimPlans = [
 		price: 25,
 		currency: "USD",
 		coverage: ["DE", "FR", "IT", "ES", "NL", "UK", "CH"],
-		icon: "🇪",
+		icon: "🇪🇺",
 		popular: true,
 		features: [
 			"Безлимитный WhatsApp",
@@ -41,7 +41,7 @@ const mockESimPlans = [
 		price: 45,
 		currency: "USD",
 		coverage: ["DE", "FR", "IT", "ES", "NL", "UK", "CH", "SE", "NO"],
-		icon: "🇪",
+		icon: "🇪🇺",
 		popular: false,
 		features: [
 			"Безлимитный мессенджеры",
@@ -57,7 +57,7 @@ const mockESimPlans = [
 		price: 20,
 		currency: "USD",
 		coverage: ["US"],
-		icon: "🇺",
+		icon: "🇺🇸",
 		popular: false,
 		features: ["Мгновенная активация", "Поддержка 4G", "Локальный IP"],
 	},
@@ -68,7 +68,7 @@ const mockESimPlans = [
 		price: 32,
 		currency: "USD",
 		coverage: ["US", "CA"],
-		icon: "🇺",
+		icon: "🇺🇸",
 		popular: true,
 		features: [
 			"Безлимитный мессенджеры",
@@ -83,7 +83,7 @@ const mockESimPlans = [
 		price: 60,
 		currency: "USD",
 		coverage: ["US", "CA"],
-		icon: "🇺",
+		icon: "🇺🇸",
 		popular: false,
 		features: [
 			"Безлимитный соцсети",
@@ -172,7 +172,7 @@ const mockCountries = [
 	{
 		id: "eu",
 		name: "Европа",
-		flag: "🇪",
+		flag: "🇪🇺",
 		description: "25+ стран",
 		popular: true,
 		color: "#3498db",
@@ -180,7 +180,7 @@ const mockCountries = [
 	{
 		id: "us",
 		name: "США",
-		flag: "🇺",
+		flag: "🇺🇸",
 		description: "США и Канада",
 		popular: true,
 		color: "#e74c3c",
